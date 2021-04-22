@@ -1,0 +1,1 @@
+## Some tasks and solutions from Sololearn related to Python or DS/ML
